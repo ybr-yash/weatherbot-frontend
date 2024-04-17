@@ -1,0 +1,25 @@
+.TagsMain{
+    background-color: #F7DED0;
+    padding-bottom: 2%;
+    /* width: 70%; */
+}
+
+.TagsDiv{
+    
+    /* width: 100px; */
+    /* margin-left: 0rem; */
+    height: 400px;
+            overflow-x: hidden;
+            overflow-y: auto;
+            text-align: justify;
+    
+
+    /* margin: 4px, 4px;
+            padding: 4px;
+            background-color: green;
+            width: 500px;
+            height: 110px;
+            overflow-x: hidden;
+            overflow-y: auto;
+            text-align: justify; */
+}

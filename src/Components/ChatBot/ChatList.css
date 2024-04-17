@@ -1,0 +1,12 @@
+.ChatsMain{
+    background-color: #FFF7F1;
+    
+
+}
+
+.ChatsHistDiv{
+    height: 400px;
+            overflow-x: hidden;
+            overflow-y: auto;
+            
+}
